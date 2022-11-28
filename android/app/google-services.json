@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1000342431955",
+    "project_id": "megastore-tr",
+    "storage_bucket": "megastore-tr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000342431955:android:660dcbd08ff3fff5974c26",
+        "android_client_info": {
+          "package_name": "com.example.mega_store_tr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000342431955-ule4i59fpafrp89ohj5qir3421ephed9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mega_store_tr",
+            "certificate_hash": "e322d3497909fc517d6b0732e23c93e8c28fd7e3"
+          }
+        },
+        {
+          "client_id": "1000342431955-377l7uhnsb27j8g9jd9gheltj97hbvmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1ki7ynZF0ENLVg1bWeDxUrGQWaktlK3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000342431955-377l7uhnsb27j8g9jd9gheltj97hbvmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
